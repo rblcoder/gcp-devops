@@ -1,1 +1,4 @@
-#### This is a repo for GCP devops project
+# Docker flask application
+This application in Python
+It will be deployed in GCP
+
